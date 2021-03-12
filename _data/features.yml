@@ -1,11 +1,11 @@
 ---
 main:
-- title: Free Consultation
+- title: Paid Consultation
   description: New clients receive an obligation free consultation.
   image: "/images/features/noun_branding_1885335.png"
-- title: Certified Accountants
+- title: Desired Accountants
   description: All members of our team are certified accountants.
   image: "/images/features/noun_The Process_1885341.png"
-- title: Tax Compliance
+- title: Tax Evasion
   description: We stay up to date on the latest changes to the tax code.
   image: "/images/features/noun_3d modeling_1885342.png"
